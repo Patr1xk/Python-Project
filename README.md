@@ -1,2 +1,2 @@
-# Python-Project
+# Airline Reservation System
 Airline Reservation System
